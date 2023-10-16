@@ -1,4 +1,5 @@
 
 {
-  "baseURL":"https://tbass.vercel.app"
+  "baseURL":"https://tbass.vercel.app",
+  "lebzcafeURL": "https://lebzcafe-tunedbass.koyeb.app"
 }
